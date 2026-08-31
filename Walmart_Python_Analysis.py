@@ -22,7 +22,7 @@ print(df[["Date", "Year", "Month", "Quarter"]].head())
 
 print("-------------------------------------------------")
 
-#Correlation Analysis Review (Make sure correaltions are correct, and are exact to SQL):
+#Correlation Analysis Review (Make sure correlations are correct, and are exact to SQL):
 correlations = df[
     ["Weekly_Sales", "Unemployment", "Fuel_Price", "CPI", "Temperature"]
 ].corr().round(2)
