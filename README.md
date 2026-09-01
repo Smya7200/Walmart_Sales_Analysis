@@ -28,6 +28,7 @@ Walmart Inc. (WMT) is an American multinational chain omnichannel retail corpora
 
 ## Methods Summary: 
 To evaluate which factors influenced weekly sales for Walmart Inc. The analysis used the following methods:
+
 **PostgreSQL:**
 Analyzing Store Performance:
 - Clean the dataset in PostgreSQL (checking for blanks, nulls, and duplicates)
