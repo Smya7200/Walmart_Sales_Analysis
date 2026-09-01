@@ -1,4 +1,7 @@
 # Walmart Sales Analysis - Project Overview
+ **Technical Tools: PostgreSQL, Excel, Python, and Power BI**
+
+
 ## Business Question: What factors are strongly associated with Walmart’s weekly sales?
 
 The goal of this project is to investigate holidays, date (month, year, and quarter), and economic/environmental factors that are potentially strongly associated with Walmart’s weekly sales. The analysis combines descriptive statistics, correlation analysis, statistical testing and modelling, regression, and data visualization to identify which factors are most relevant and which have limited explanatory power.
@@ -29,7 +32,12 @@ Walmart Inc. (WMT) is an American multinational chain omnichannel retail corpora
 ## Methods Summary: 
 To evaluate which factors influenced weekly sales for Walmart Inc. The analysis used the following methods:
 
+**Excel:**
+- Downloaded csv file and converted file to Excel worksheet
+- Created a data dictionary
+  
 **PostgreSQL:**
+
 Analyzing Store Performance:
 - Clean the dataset in PostgreSQL (checking for blanks, nulls, and duplicates)
 - Perform descriptive statistics of weekly sales (MAX, MIN, and AVG)
