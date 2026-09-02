@@ -9,7 +9,7 @@ The goal of this project is to investigate holidays, date (month, year, and quar
 Walmart Inc. (WMT) is an American multinational chain omnichannel retail corporation. In this dataset, the sales revenue years are 2010-2012. The factors in the dataset include Weekly Sales, Date, Holiday flag, CPI (Consumer Price Index), Fuel Price, and Temperature. 
 
 ## Data Dictionary:
-
+<img width = 1030 alt= "image" src="https://github.com/Smya7200/Walmart_Sales_Analysis/blob/main/DataDictionaryWalmart.png">
 
 
 ## Insight Summary:
