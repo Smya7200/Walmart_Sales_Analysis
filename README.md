@@ -39,10 +39,10 @@ To evaluate which factors influenced weekly sales for Walmart Inc. The analysis 
 **PostgreSQL:**
 
 Analyzing Store Performance:
-- Clean the dataset in PostgreSQL (checking for blanks, nulls, and duplicates)
-- Perform descriptive statistics of weekly sales (MAX, MIN, and AVG)
-- Which stores performed the best in average weekly sales and vice versa
-- Which stores performed the best during holiday season?
+- Cleaned the dataset in PostgreSQL (checking for blanks, nulls, and duplicates)
+- Performed descriptive statistics of weekly sales (MAX, MIN, and AVG)
+- Determined which stores performed the best in average weekly sales and vice versa
+- Determined which stores performed the best during holiday season?
 
 **Correlation Analysis of Economic and Environmental Factors (Numerical):**
 - Analyze correlation between weekly sales and 4 factors:
