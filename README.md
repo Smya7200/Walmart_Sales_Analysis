@@ -20,7 +20,7 @@ Walmart Inc. (WMT) is an American multinational chain omnichannel retail corpora
 - Average weekly sales had a decrease of 1.27% from 2010-2011, and a 1.20% decline from 2011-2012.
 
 ## Dashboard (Power BI):
-
+<img width="1161" alt="image" src="https://github.com/Smya7200/Walmart_Sales_Analysis/blob/main/Walmart%20Sales%20Dashboard.png">
 
 
 ## Limitations: 
